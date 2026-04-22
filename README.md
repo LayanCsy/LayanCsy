@@ -13,7 +13,6 @@ I'm a **Cybersecurity student** at Taibah University, passionate about building 
 - 🎓 B.Sc. Cybersecurity @ **Taibah University**, Madinah *(2022 – Present)*
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 International Summer School in Cybersecurity @ **University of Glasgow** *(2024)*
 - 🤝 Former Trainee & Teaching Assistant @ **KAUST Academy**
-- 🌍 Based in **Madinah, Saudi Arabia**
 
 ---
 
