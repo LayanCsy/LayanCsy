@@ -8,7 +8,7 @@
 
 ### 👾 About Me
 
-I'm a **Cybersecurity student** at Taibah University with a GPA above 4.5/5, passionate about building things that make the digital world safer. From cracking CTF challenges to shipping AI-powered privacy tools — I love the full spectrum.
+I'm a **Cybersecurity student** at Taibah University, passionate about building things that make the digital world safer. From cracking CTF challenges to shipping tools — I love the full spectrum.
 
 - 🎓 B.Sc. Cybersecurity @ **Taibah University**, Madinah *(2022 – Present)*
 - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 International Summer School in Cybersecurity @ **University of Glasgow** *(2024)*
@@ -71,7 +71,7 @@ Supported course delivery and facilitated hands-on labs for cybersecurity studen
 **🔬 Trainee @ KAUST Academy** *(Dec 2023 – Aug 2024)*
 Covered Access Control, Cryptography, Network & Web Security, OSINT, Hardware Security, Anti-Forensics, Blockchain, and Privacy across 4 intensive stages.
 
-**📣 Co-Leader & Media Lead – Google Developer Groups @ Taibah** *(2024 – 2025)*
+**📣 Co-Leader – Google Developer Groups @ Taibah** *(2024 – 2025)*
 Led a community of 200+ developers, organized 5 events, and directed media outreach for Google technologies.
 
 **🚀 Ambassador – Aja Space for IT** *(2024 – 2025)*
@@ -86,7 +86,6 @@ Promoted innovative IT solutions and inspired college students to engage with cy
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layan-alaboudi-1bb2ba25a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LayanCsy)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/layancsy)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu4454418@taibahu.edu.sa)
 
 </div>
 
